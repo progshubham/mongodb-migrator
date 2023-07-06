@@ -53,6 +53,6 @@ This script requires Python 3 and the following Python packages:
 * Easy to use: The script is straightforward to use and can be modified to suit the user's specific needs.
 * Customizable: The script is written in Python, which is a highly customizable and flexible programming language. Users can modify the script to add new features or customize it to suit their specific requirements.
 
-If you find mongodb-migrator helpful, please consider starring the project on GitHub. It helps to boost the project's visibility and encourages the maintainers to continue improving it. Thank you!
+If you find mongodb-migrator helpful, please consider starring the project on GitHub. It helps to boost the project's visibility and encourages the maintainers to continue improving it. Thank you! ❤️
 
 
